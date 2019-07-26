@@ -1,0 +1,1 @@
+"# ionic"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/koziuko/ionic.gitgit push -u origin master
